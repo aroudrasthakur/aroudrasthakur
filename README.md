@@ -22,6 +22,27 @@
 
 ---
 
+## 🧮 Languages I’ve Used (across my projects)
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={
+    type:'pie',
+    data:{
+      labels:['Python','TypeScript / JavaScript','C'],
+      datasets:[{data:[45,40,15]}]
+    },
+    options:{
+      plugins:{
+        legend:{position:'bottom'},
+        title:{display:true,text:'Language Usage Across Projects'}
+      }
+    }
+  }" alt="Pie chart of languages used" width="300"/>
+</p>
+
+> Values are approximate, combining usage in web apps, ML/CV tasks, and embedded-systems/robotics projects.
+
+
 ## 🧩 Selected projects
 
 ### 🎟 TicketFinder
@@ -79,15 +100,6 @@ Live: https://aroudrathakur.vercel.app/
 
 ---
 
-## 📈 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aroudrasthakur&show_icons=true&theme=transparent" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroudrasthakur&layout=compact&theme=transparent" alt="Top languages" />
-</p>
 
 ---
 
