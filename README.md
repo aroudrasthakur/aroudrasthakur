@@ -23,6 +23,13 @@
 ---
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aroudrasthakur&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aroudrasthakur&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aroudrasthakur&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+
 ## 🧩 Selected projects
 
 ### 🎟 TicketFinder
@@ -89,3 +96,6 @@ If any of my repos look interesting or you want to collaborate, the easiest way 
 
 - Portfolio contact form: **https://aroudrathakur.vercel.app/**
 - LinkedIn: **@aroudra-thakur-69203630a**
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
