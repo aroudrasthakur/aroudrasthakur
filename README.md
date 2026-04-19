@@ -183,11 +183,71 @@ Some other public repos on this profile:
 ## Tech I Use Often
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,java,js,c,kotlin,php&theme=dark" alt="Languages" />
+  <a href="https://www.typescriptlang.org/" title="TypeScript">
+    <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" />
+  </a>
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" />
+  </a>
+  <a href="https://www.java.com/" title="Java">
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />
+  </a>
+  <a href="https://www.iso-9899.info/wiki/Main_Page" title="C">
+    <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" />
+  </a>
+  <a href="https://kotlinlang.org/" title="Kotlin">
+    <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" />
+  </a>
+  <a href="https://www.php.net/" title="PHP">
+    <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" />
+  </a>
   <br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,fastapi,nodejs,tailwind,threejs&theme=dark" alt="Frameworks" />
+  <a href="https://react.dev/" title="React">
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />
+  </a>
+  <a href="https://nextjs.org/" title="Next.js">
+    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" />
+  </a>
+  <a href="https://astro.build/" title="Astro">
+    <img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="Astro" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI">
+    <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" />
+  </a>
+  <a href="https://nodejs.org/" title="Node.js">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" />
+  </a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS">
+    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" />
+  </a>
+  <a href="https://threejs.org/" title="Three.js">
+    <img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="Three.js" />
+  </a>
   <br />
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,vercel,git,github,docker&theme=dark" alt="Tools" />
+  <a href="https://www.postgresql.org/" title="PostgreSQL">
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" />
+  </a>
+  <a href="https://supabase.com/" title="Supabase">
+    <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" />
+  </a>
+  <a href="https://firebase.google.com/" title="Firebase">
+    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" />
+  </a>
+  <a href="https://vercel.com/" title="Vercel">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" />
+  </a>
+  <a href="https://git-scm.com/" title="Git">
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
+  </a>
+  <a href="https://github.com/" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+  </a>
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" />
+  </a>
 </p>
 
 | Category   | Stack                                                                     |
