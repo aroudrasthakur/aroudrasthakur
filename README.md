@@ -33,12 +33,14 @@
   <tr>
     <td width="62%" valign="top">
 
-I like building products that sit at the intersection of software engineering, data, and applied intelligence. A lot of my recent work has been in TypeScript and Python, with projects spanning web apps, Android, computer vision, data tooling, and backend systems.
+I build products at the intersection of software engineering, data, and applied intelligence. Recent work has focused on production-ready systems in TypeScript and Python — from full-stack apps and backend APIs to ML workflows and computer-vision tooling.
+
+My sweet spot is shipping end-to-end systems that combine pragmatic engineering, thoughtful data design, and careful evaluation. I enjoy tackling problems where model outputs must be integrated into reliable pipelines and clear operator workflows.
 
 Right now, the repos on this profile mostly cluster around:
 
-- Full-stack product builds with React, Next.js, Astro, FastAPI, and Node.js
-- AI and ML workflows: retrieval, scoring, classification, and investigator tooling
+- Full-stack product builds with React, Next.js, Astro, Vite, FastAPI, and Node.js
+- AI and ML workflows: retrieval, scoring, evaluation, and investigator tooling
 - Computer vision and visualization projects
 - Coursework and systems projects in C, PHP, Kotlin, and Python
 
@@ -63,7 +65,8 @@ Right now, the repos on this profile mostly cluster around:
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aroudrasthakur&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&area_color=6366f1" alt="Contribution graph" />
+  <!-- The previous activity graph theme caused rendering issues for some hosts. Using a widely-supported theme and alternate host helps. -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aroudrasthakur&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ### Where My Work Lives
@@ -116,14 +119,14 @@ pie showData
 
 Silo is a prompt drift and evaluation platform for teams shipping LLM-powered features. It helps compare accepted baseline prompts against new candidate versions, run staged evaluations over stored test cases, surface pass/fail outcomes, and provide the diagnostics needed to understand why a prompt regressed or improved.
 
-This is one of the most systems-heavy projects I have worked on because it sits at the intersection of developer tooling, evaluation design, and product infrastructure. The platform supports prompt suites, explicit test-case generation, staged evaluation, disagreement-based judge sampling, early-stop behavior for CI and iteration workflows, human review paths, and operator-facing observability for per-case history and optimization telemetry. It also includes a published CLI for automation and CI integration. The project is currently private, but it is actively developed and the npm package has already reached 500+ users.
+This project focused on evaluation infrastructure, prompt versioning, drift detection, CI integration, and operator-facing observability for per-case history and optimization telemetry. The platform includes a published CLI and automation hooks for CI workflows.
 
 - Focus areas: LLM evaluation infrastructure, prompt versioning, drift detection, CI workflows, developer tooling
 - Stack: Python, FastAPI, Next.js, Supabase, TypeScript
 - CLI: [`silo-drift-cli`](https://www.npmjs.com/package/silo-drift-cli)
 - Live frontend: [silo-frontend.onrender.com](https://silo-frontend.onrender.com)
 - Live backend: [silo-siix.onrender.com](https://silo-siix.onrender.com)
-- Status: Private project under active development
+- Status: Completed
 
 ### Cicada AML
 
@@ -139,7 +142,7 @@ What makes this project interesting to me is the mix of applied machine learning
 
 Auto Resume is an AI-powered resume generation platform built around matching the right content to the right opportunity instead of just filling a template. It combines structured profile data, vector-based similarity, AI-assisted optimization, and deterministic rendering so the generated resume stays both tailored and consistent.
 
-The project stands out because it treats resume generation like an actual product pipeline rather than a one-off AI demo. It includes CRUD flows for user profile data, semantic matching with pgvector, authentication, export handling, and a rendering pipeline based on LaTeX. That made it a strong exercise in balancing user experience, backend reliability, document generation, and security considerations around sensitive personal data.
+The project stands out because it treats resume generation like an actual product pipeline rather than an one-off AI demo. It includes CRUD flows for user profile data, semantic matching with pgvector, authentication, export handling, and a rendering pipeline based on LaTeX. That made it a strong exercise in balancing user experience, backend reliability, document generation, and security considerations around sensitive personal data.
 
 - Focus areas: retrieval and ranking, document generation, secure user data flows, production-oriented full-stack design
 - Stack: Next.js, TypeScript, PostgreSQL/pgvector, LaTeX
@@ -248,13 +251,19 @@ Some other public repos on this profile:
   <a href="https://www.docker.com/" title="Docker">
     <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" />
   </a>
+  <a href="https://vitejs.dev/" title="Vite">
+    <img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" />
+  </a>
+  <a href="https://convex.dev/" title="Convex">
+    <img src="https://skillicons.dev/icons?i=convex&theme=dark" alt="Convex" />
+  </a>
 </p>
 
 | Category   | Stack                                                                     |
 | ---------- | ------------------------------------------------------------------------- |
 | Languages  | TypeScript, Python, Java, JavaScript, C, Kotlin                           |
-| Frameworks | React, Next.js, Astro, FastAPI, Node.js                                   |
-| Data       | PostgreSQL, pgvector, Supabase, Firebase                                  |
+| Frameworks | React, Next.js, Astro, Vite, FastAPI, Node.js                             |
+| Data       | PostgreSQL, pgvector, Supabase, Firebase, Convex                          |
 | Areas      | Full-stack apps, ML systems, computer vision, visualization, backend APIs |
 | Tools      | Git, GitHub, Vercel, Docker                                               |
 
