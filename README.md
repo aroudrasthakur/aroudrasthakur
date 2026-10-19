@@ -1,5 +1,5 @@
 <a href="https://github.com/aroudrasthakur">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Aroudra%20Thakur&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20software,%20data,%20and%20intelligence&descSize=18&descAlignY=60&animation=fadeIn" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=220&section=header&text=Aroudra%20Thakur&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20software,%20data,%20and%20intelligence&descSize=18&descAlignY=60&animation=fadeIn" alt="Header banner" />
 </a>
 
 <h1 align="center">Hi there, I'm Aroudra</h1>
@@ -255,8 +255,9 @@ Some other public repos on this profile:
     <img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" />
   </a>
   <a href="https://convex.dev/" title="Convex">
-    <img src="https://skillicons.dev/icons?i=convex&theme=dark" alt="Convex" />
+    <img src="https://cdn.simpleicons.org/convex/EE342F" width="48" height="48" alt="Convex" />
   </a>
+
 </p>
 
 | Category   | Stack                                                                     |
