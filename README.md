@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/aroudrasthakur">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&multiline=false&width=720&lines=Computer+Science+%40+UT+Arlington;Full-Stack+%2B+ML+Engineer+in+training;Shipping+products%2C+not+just+prototypes;Curious+about+evals%2C+vision%2C+and+systems" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&multiline=false&width=720&lines=Computer+Science+%40+UT+Arlington;AI+Engineer+%2B+Full-Stack+Developer;Shipping+products%2C+not+just+prototypes;Curious+about+evals%2C+agents%2C+and+vision" alt="Typing intro" />
   </a>
 </p>
 
@@ -33,16 +33,16 @@
   <tr>
     <td width="62%" valign="top">
 
-I build products at the intersection of software engineering, data, and applied intelligence. Recent work has focused on production-ready systems in TypeScript and Python — from full-stack apps and backend APIs to ML workflows and computer-vision tooling.
+I'm a Computer Science (Honors) student at UT Arlington, graduating May 2027. I build products at the intersection of software engineering, data, and applied AI, from LLM agents and evaluation tooling to full-stack apps and computer-vision research.
 
-My sweet spot is shipping end-to-end systems that combine pragmatic engineering, thoughtful data design, and careful evaluation. I enjoy tackling problems where model outputs must be integrated into reliable pipelines and clear operator workflows.
+My sweet spot is shipping end-to-end systems that combine pragmatic engineering, thoughtful data design, and careful evaluation. I enjoy problems where model outputs have to fit into reliable pipelines and clear operator workflows.
 
-Right now, the repos on this profile mostly cluster around:
+What I work on:
 
-- Full-stack product builds with React, Next.js, Astro, Vite, FastAPI, and Node.js
-- AI and ML workflows: retrieval, scoring, evaluation, and investigator tooling
-- Computer vision and visualization projects
-- Coursework and systems projects in C, PHP, Kotlin, and Python
+- AI engineering: multi-agent LLM workflows, retrieval, observability, and evaluation
+- Full-stack product builds with React, Next.js, FastAPI, Django, Node.js, and Convex
+- Machine learning and computer vision research (event cameras, pose estimation, ASL hand poses)
+- Developer tools and secure backend systems (authentication, RBAC, CI/CD)
 
 </td>
     <td width="38%" align="center">
@@ -51,12 +51,23 @@ Right now, the repos on this profile mostly cluster around:
   </tr>
 </table>
 
+## Experience
+
+- **HF Sinclair**, Artificial Intelligence Intern (Jun 2026 – Aug 2026): built multi-agent LLM workflows with Python, LangGraph, and Snowflake Cortex, plus ObsFlow, an observability framework for agent traces and citation provenance. Reduced token consumption by approximately 70%.
+- **HackUTA**, Director of Technology (Jul 2026 – Nov 2026): led 5 engineers on a React, TypeScript, and Convex application platform with authentication, RBAC, audit logs, and CI/CD.
+- **ACM Create Committee (UTA)**, Project Manager, Silo (Jan 2026 – Present): leading 7 engineers building an LLM prompt-evaluation and drift-testing platform.
+- **Ozcorp Scientific LLC**, AI Engineering Intern (Dec 2025 – May 2026): built a full-stack AI research agent (Python, FastAPI, React, embeddings) that cut manual research work by 80%+.
+- **Hotspring**, Software Engineering Intern (Aug 2024 – Dec 2024): shipped React/TypeScript and Django/GraphQL features on a production web platform.
+
+## Research and Publications
+
+- **PRIMAL Lab, UTA** (May 2025 – Present): event-based computer vision, including steering-angle prediction with ResNet-18 and a heat-diffusion event representation.
+- R. Shrestha, **A. S. Thakur**, and C. Wang, "Human Pose Estimation in 2D and 3D: A Survey of Analytical Methods, Benchmarking Frameworks, and Engineering Applications," *Journal of Experimental and Theoretical Analyses*, vol. 4, no. 3, art. 28, 2026. [DOI: 10.3390/jeta4030028](https://doi.org/10.3390/jeta4030028)
+- **A. S. Thakur**, "Assistive Technologies for Learning Disabilities: A Systematic Review of Trends and Impact," 2025 ASEE Gulf-Southwest Annual Conference. [DOI: 10.18260/1-2--55030](https://doi.org/10.18260/1-2--55030)
+
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/aroudrasthakur">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=aroudrasthakur&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" alt="GitHub stats" />
-  </a>
   <a href="https://github.com/aroudrasthakur">
     <img height="170" src="https://streak-stats.demolab.com?user=aroudrasthakur&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub streak" />
   </a>
@@ -65,8 +76,7 @@ Right now, the repos on this profile mostly cluster around:
 ### Contribution Activity
 
 <p align="center">
-  <!-- The previous activity graph theme caused rendering issues for some hosts. Using a widely-supported theme and alternate host helps. -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aroudrasthakur&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aroudrasthakur&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ### Where My Work Lives
@@ -77,38 +87,26 @@ mindmap
   root((Aroudra))
     Full-Stack
       Next.js
-      Astro
+      React
       FastAPI
-      Node.js
+      Convex
     AI / ML
-      LLM Evaluation
+      LLM Agents
+      Evaluation and Observability
       Retrieval / pgvector
-      Classification
-      Scoring
+      Graph ML
     Computer Vision
-      AEDAT Tooling
-      Spin Prediction
+      Event Cameras
+      Pose Estimation
       Visualization
     Systems
-      C / Kotlin
-      Backend APIs
+      Auth and RBAC
+      CI/CD
       Realtime Pipelines
     Product
       Developer Tools
       Dashboards
       Motion / UI
-```
-
-### How My Time Splits Across Domains
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'pie1':'#6366f1','pie2':'#22d3ee','pie3':'#f472b6','pie4':'#facc15','pie5':'#34d399','pieTitleTextSize':'18px','pieSectionTextSize':'14px'}}}%%
-pie showData
-  "Full-Stack Apps" : 35
-  "AI / ML Systems" : 25
-  "Backend / Systems" : 15
-  "Computer Vision" : 15
-  "Coursework / Misc" : 10
 ```
 
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="100%" height="2px" alt="divider" />
@@ -117,52 +115,52 @@ pie showData
 
 ### Silo
 
-Silo is a prompt drift and evaluation platform for teams shipping LLM-powered features. It helps compare accepted baseline prompts against new candidate versions, run staged evaluations over stored test cases, surface pass/fail outcomes, and provide the diagnostics needed to understand why a prompt regressed or improved.
+Silo is a prompt drift and evaluation platform for teams shipping LLM-powered features. It compares accepted baseline prompts against new candidate versions, runs staged evaluations over stored test cases, surfaces pass/fail outcomes, and provides the diagnostics needed to understand why a prompt regressed or improved.
 
-This project focused on evaluation infrastructure, prompt versioning, drift detection, CI integration, and operator-facing observability for per-case history and optimization telemetry. The platform includes a published CLI and automation hooks for CI workflows.
+I lead the team of 7 building it as Project Manager in the ACM Create Committee. The work centers on evaluation infrastructure, prompt versioning, drift detection, CI integration, and operator-facing observability for per-case history and optimization telemetry. The platform includes a published CLI and automation hooks for CI workflows.
 
 - Focus areas: LLM evaluation infrastructure, prompt versioning, drift detection, CI workflows, developer tooling
 - Stack: Python, FastAPI, Next.js, Supabase, TypeScript
 - CLI: [`silo-drift-cli`](https://www.npmjs.com/package/silo-drift-cli)
+- Repo: [acmuta/Silo](https://github.com/acmuta/Silo)
 - Live frontend: [silo-frontend.onrender.com](https://silo-frontend.onrender.com)
 - Live backend: [silo-siix.onrender.com](https://silo-siix.onrender.com)
-- Status: Completed
 
 ### Cicada AML
 
-Blockchain AML investigation platform built for investigator-facing analysis of suspicious wallets, transaction flows, and laundering patterns. The system is designed around a heuristics-first workflow, then layers in ML scoring, clustering, and explanation tooling so the output is useful to an analyst instead of just a raw risk score.
+An ML risk-analysis application for investigator-facing analysis of suspicious wallets, transaction flows, and laundering patterns. It is built around a heuristics-first workflow, then layers in ML scoring, clustering, and explanation tooling so the output is useful to an analyst instead of just a raw risk score.
 
-What makes this project interesting to me is the mix of applied machine learning and product design. It handles structured blockchain data, builds wallet graphs, evaluates a large set of AML heuristics, compares multiple model perspectives, and surfaces the results in a dashboard that supports exploration, reporting, and case review. The project pushed me to think across backend design, model orchestration, data interpretation, and how to present technical signals in a way that supports real decisions.
+It handles structured blockchain data, builds wallet graphs, evaluates 185 AML heuristics, compares five ML modeling approaches trained on the Elliptic Bitcoin dataset, and surfaces results in a dashboard for exploration, reporting, and case review. The project pushed me to think across backend design, model orchestration, data interpretation, and how to present technical signals in a way that supports real decisions.
 
 - Focus areas: graph-based transaction analysis, suspicious-activity detection, explainability, investigator workflows
-- Stack: Python, FastAPI, React, Vite, Tailwind
+- Stack: Python, FastAPI, PyTorch Geometric, XGBoost, React, Vite, Tailwind
 - Repo: [Cicada-AML](https://github.com/aroudrasthakur/Cicada-AML)
 
 ### Auto Resume
 
 Auto Resume is an AI-powered resume generation platform built around matching the right content to the right opportunity instead of just filling a template. It combines structured profile data, vector-based similarity, AI-assisted optimization, and deterministic rendering so the generated resume stays both tailored and consistent.
 
-The project stands out because it treats resume generation like an actual product pipeline rather than an one-off AI demo. It includes CRUD flows for user profile data, semantic matching with pgvector, authentication, export handling, and a rendering pipeline based on LaTeX. That made it a strong exercise in balancing user experience, backend reliability, document generation, and security considerations around sensitive personal data.
+It treats resume generation like an actual product pipeline rather than a one-off AI demo: CRUD flows for user profile data, semantic matching with pgvector, AWS Cognito authentication, asynchronous export handling with Celery and Redis, and a LaTeX rendering pipeline. That made it a strong exercise in balancing user experience, backend reliability, document generation, and security around sensitive personal data.
 
 - Focus areas: retrieval and ranking, document generation, secure user data flows, production-oriented full-stack design
-- Stack: Next.js, TypeScript, PostgreSQL/pgvector, LaTeX
+- Stack: Next.js, TypeScript, FastAPI, PostgreSQL/pgvector, Celery, Redis, AWS Cognito, LaTeX
 - Repo: [auto_resume](https://github.com/aroudrasthakur/auto_resume)
 
 ### Nixo Slackbot
 
 Nixo Slackbot is a realtime message triage and ticketing system built for Forward-Deployed Engineer workflows. It watches Slack conversations, identifies relevant customer messages, classifies and groups them into tickets, and pushes the results into a dashboard where teams can track priority, status, and related context in real time.
 
-The part I like most here is the operational systems thinking behind it. This project is not just about calling an LLM on a message. It has to handle message grouping, pipeline behavior, classification quality, realtime updates, and race-condition prevention so the dashboard stays reliable even when messages arrive concurrently. It is a good example of combining LLM-assisted workflows with practical backend constraints and a product interface that needs to stay trustworthy.
+The interesting part is the operational systems thinking. It is not just calling an LLM on a message: it has to handle message grouping, pipeline behavior, classification quality, realtime updates, and race-condition prevention so the dashboard stays reliable even when messages arrive concurrently.
 
 - Focus areas: realtime systems, Slack automation, LLM-assisted classification, ticket aggregation, operational dashboards
-- Stack: TypeScript, Next.js, OpenAI, Supabase, Socket.IO
+- Stack: TypeScript, Next.js, OpenAI, Supabase, Socket.IO, AWS Cognito
 - Repo: [nixo-slackbot](https://github.com/aroudrasthakur/nixo-slackbot)
 
 ### Personal Website
 
-My personal website is where I bring together engineering, design, and storytelling. It is more than a static portfolio. I use it as a space to experiment with interactive UI, motion, visual hierarchy, and how technical work should be presented to people who may not know the implementation details behind it.
+My personal website is where I bring together engineering, design, and storytelling. It is more than a static portfolio: I use it to experiment with interactive UI, motion, visual hierarchy, and how technical work should be presented to people who may not know the implementation details.
 
-The current version is built with Astro, React, GSAP, Three.js, and Tailwind, and it reflects a lot of what I care about in frontend work: responsive layout, intentional motion, modular component structure, and a stronger visual identity than a default template site. It is also the best single place to understand how I think about showcasing projects, experience, and technical depth in a polished way.
+It is built with Astro, React, GSAP, Three.js, and Tailwind, and reflects what I care about in frontend work: responsive layout, intentional motion, modular components, and a stronger visual identity than a default template.
 
 - Focus areas: frontend architecture, motion design, interaction design, technical storytelling
 - Stack: Astro, React, Tailwind, GSAP, Three.js
@@ -220,6 +218,9 @@ Some other public repos on this profile:
   <a href="https://fastapi.tiangolo.com/" title="FastAPI">
     <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" />
   </a>
+  <a href="https://www.djangoproject.com/" title="Django">
+    <img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" />
+  </a>
   <a href="https://nodejs.org/" title="Node.js">
     <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" />
   </a>
@@ -230,6 +231,9 @@ Some other public repos on this profile:
     <img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="Three.js" />
   </a>
   <br />
+  <a href="https://pytorch.org/" title="PyTorch">
+    <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" />
+  </a>
   <a href="https://www.postgresql.org/" title="PostgreSQL">
     <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" />
   </a>
@@ -238,6 +242,12 @@ Some other public repos on this profile:
   </a>
   <a href="https://firebase.google.com/" title="Firebase">
     <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" />
+  </a>
+  <a href="https://redis.io/" title="Redis">
+    <img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" />
+  </a>
+  <a href="https://aws.amazon.com/" title="AWS">
+    <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" />
   </a>
   <a href="https://vercel.com/" title="Vercel">
     <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" />
@@ -260,13 +270,14 @@ Some other public repos on this profile:
 
 </p>
 
-| Category   | Stack                                                                     |
-| ---------- | ------------------------------------------------------------------------- |
-| Languages  | TypeScript, Python, Java, JavaScript, C, Kotlin                           |
-| Frameworks | React, Next.js, Astro, Vite, FastAPI, Node.js                             |
-| Data       | PostgreSQL, pgvector, Supabase, Firebase, Convex                          |
-| Areas      | Full-stack apps, ML systems, computer vision, visualization, backend APIs |
-| Tools      | Git, GitHub, Vercel, Docker                                               |
+| Category   | Stack                                                                                     |
+| ---------- | ----------------------------------------------------------------------------------------- |
+| Languages  | Python, TypeScript, JavaScript, SQL, Java, C, Kotlin, PHP                                 |
+| AI / ML    | LangGraph, LangChain, Snowflake Cortex, RAG, embeddings, PyTorch, PyTorch Geometric, XGBoost |
+| Frameworks | React, Next.js, Astro, Vite, FastAPI, Django, Node.js, GraphQL                            |
+| Data       | PostgreSQL, pgvector, Supabase, Snowflake, Redis, Celery, Firebase, Convex                |
+| Cloud/Auth | AWS (S3, Cognito), Docker, GitHub Actions                                                 |
+| Areas      | AI agents and evals, full-stack apps, computer vision, backend APIs, developer tooling    |
 
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="100%" height="2px" alt="divider" />
 
