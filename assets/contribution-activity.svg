@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="200" viewBox="0 0 830 200" role="img" aria-label="1,055 contributions in the last year" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+  <rect width="830" height="200" rx="8" fill="#0d1117"/>
+  <text x="44" y="24" fill="#e6edf3" font-size="14" font-weight="600">1,055 contributions in the last year</text>
+  <line x1="44" y1="172.0" x2="814" y2="172.0" stroke="#30363d" stroke-width="1" stroke-dasharray="3 4"/>
+  <text x="36" y="176.0" fill="#8b949e" font-size="11" text-anchor="end">0</text>
+  <line x1="44" y1="139.0" x2="814" y2="139.0" stroke="#30363d" stroke-width="1" stroke-dasharray="3 4"/>
+  <text x="36" y="143.0" fill="#8b949e" font-size="11" text-anchor="end">62</text>
+  <line x1="44" y1="106.0" x2="814" y2="106.0" stroke="#30363d" stroke-width="1" stroke-dasharray="3 4"/>
+  <text x="36" y="110.0" fill="#8b949e" font-size="11" text-anchor="end">125</text>
+  <line x1="44" y1="73.0" x2="814" y2="73.0" stroke="#30363d" stroke-width="1" stroke-dasharray="3 4"/>
+  <text x="36" y="77.0" fill="#8b949e" font-size="11" text-anchor="end">188</text>
+  <line x1="44" y1="40.0" x2="814" y2="40.0" stroke="#30363d" stroke-width="1" stroke-dasharray="3 4"/>
+  <text x="36" y="44.0" fill="#8b949e" font-size="11" text-anchor="end">250</text>
+  <path d="M44.0,172.0 L44.0,170.9 L58.8,166.7 L73.6,163.0 L88.4,169.9 L103.2,172.0 L118.0,172.0 L132.8,168.8 L147.7,164.1 L162.5,164.6 L177.3,172.0 L192.1,172.0 L206.9,163.0 L221.7,155.1 L236.5,172.0 L251.3,170.9 L266.1,158.3 L280.9,172.0 L295.7,172.0 L310.5,171.5 L325.3,168.3 L340.2,156.7 L355.0,168.8 L369.8,159.3 L384.6,169.4 L399.4,171.5 L414.2,171.5 L429.0,170.4 L443.8,168.8 L458.6,172.0 L473.4,172.0 L488.2,172.0 L503.0,172.0 L517.8,172.0 L532.7,172.0 L547.5,172.0 L562.3,172.0 L577.1,172.0 L591.9,169.9 L606.7,169.9 L621.5,170.9 L636.3,171.5 L651.1,171.5 L665.9,170.4 L680.7,142.4 L695.5,160.9 L710.3,42.1 L725.2,153.5 L740.0,165.7 L754.8,123.4 L769.6,142.4 L784.4,81.2 L799.2,146.1 L814.0,133.5 L814.0,172.0 Z" fill="url(#fill)"/>
+  <polyline points="44.0,170.9 58.8,166.7 73.6,163.0 88.4,169.9 103.2,172.0 118.0,172.0 132.8,168.8 147.7,164.1 162.5,164.6 177.3,172.0 192.1,172.0 206.9,163.0 221.7,155.1 236.5,172.0 251.3,170.9 266.1,158.3 280.9,172.0 295.7,172.0 310.5,171.5 325.3,168.3 340.2,156.7 355.0,168.8 369.8,159.3 384.6,169.4 399.4,171.5 414.2,171.5 429.0,170.4 443.8,168.8 458.6,172.0 473.4,172.0 488.2,172.0 503.0,172.0 517.8,172.0 532.7,172.0 547.5,172.0 562.3,172.0 577.1,172.0 591.9,169.9 606.7,169.9 621.5,170.9 636.3,171.5 651.1,171.5 665.9,170.4 680.7,142.4 695.5,160.9 710.3,42.1 725.2,153.5 740.0,165.7 754.8,123.4 769.6,142.4 784.4,81.2 799.2,146.1 814.0,133.5" fill="none" stroke="#6366f1" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="44.0" y="192" fill="#8b949e" font-size="11">Nov</text>
+  <text x="103.2" y="192" fill="#8b949e" font-size="11">Dec</text>
+  <text x="162.5" y="192" fill="#8b949e" font-size="11">Jan</text>
+  <text x="221.7" y="192" fill="#8b949e" font-size="11">Feb</text>
+  <text x="280.9" y="192" fill="#8b949e" font-size="11">Mar</text>
+  <text x="355.0" y="192" fill="#8b949e" font-size="11">Apr</text>
+  <text x="414.2" y="192" fill="#8b949e" font-size="11">May</text>
+  <text x="488.2" y="192" fill="#8b949e" font-size="11">Jun</text>
+  <text x="547.5" y="192" fill="#8b949e" font-size="11">Jul</text>
+  <text x="606.7" y="192" fill="#8b949e" font-size="11">Aug</text>
+  <text x="680.7" y="192" fill="#8b949e" font-size="11">Sep</text>
+  <text x="740.0" y="192" fill="#8b949e" font-size="11">Oct</text>
+  <text x="799.2" y="192" fill="#8b949e" font-size="11">Nov</text>
+</svg>
