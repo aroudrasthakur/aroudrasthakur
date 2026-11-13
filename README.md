@@ -76,7 +76,7 @@ What I work on:
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aroudrasthakur&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://raw.githubusercontent.com/aroudrasthakur/aroudrasthakur/main/assets/contribution-activity.svg" alt="Contribution graph" />
 </p>
 
 ### Where My Work Lives
