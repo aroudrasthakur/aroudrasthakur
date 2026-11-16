@@ -27,6 +27,8 @@
 
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="100%" height="2px" alt="divider" />
 
+![GitHub Snake](https://raw.githubusercontent.com/aroudrasthakur/snk/output/github-contribution-grid-snake-dark.svg)
+
 ## About Me
 
 <table>
