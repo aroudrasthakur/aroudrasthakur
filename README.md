@@ -74,7 +74,11 @@ What I work on:
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aroudrasthakur/aroudrasthakur/main/assets/contribution-activity.svg" alt="Contribution graph" />
+  <img src="https://raw.githubusercontent.com/aroudrasthakur/aroudrasthakur/main/assets/contribution-heatmap.svg" alt="Contribution heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aroudrasthakur/aroudrasthakur/main/assets/contribution-activity.svg" alt="Weekly contribution graph" />
 </p>
 
 ### Where My Work Lives
