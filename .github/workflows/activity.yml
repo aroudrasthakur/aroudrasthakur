@@ -1,4 +1,4 @@
-name: Update contribution graph
+name: Update contribution graphs
 
 on:
   schedule:
@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - scripts/generate_activity.py
+      - .github/workflows/activity.yml
 
 permissions:
   contents: write
@@ -17,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate contribution graph
+      - name: Generate contribution graphs
         run: python3 scripts/generate_activity.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -27,6 +28,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/contribution-activity.svg
-          git diff --cached --quiet || git commit -m "Update contribution graph"
+          git add assets/contribution-activity.svg assets/contribution-heatmap.svg
+          git diff --cached --quiet || git commit -m "Update contribution graphs"
           git push
